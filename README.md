@@ -1,1 +1,2 @@
 # HR-software
+i am currently working on HR software for an cooperte office their requirement is to create daily empolyee attendence work schedule, [Employer NI Calculator](https://zelt.app/blog/how-to-calculate-employers-ni-employer-s-ni-calculator-2024-2025-2026/) ,also calculate over time and salary sheet so is there any template related this so i can integrate this on app or i have to do all this manually.
